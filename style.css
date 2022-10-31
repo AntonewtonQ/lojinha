@@ -139,4 +139,8 @@
         cursor: pointer;
         width: 75px;
     }
+    .banner>h1{
+        font-size: 50pt;
+        color: #13af59;
+    }
 }
